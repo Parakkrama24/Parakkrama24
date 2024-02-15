@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parakkrama Dasanayaka</h1>
 <h3 align="center">A Game developer and computer engineering undergraduate</h3>
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.IxVkvCmQ68sA-FBVwf2_2gHaEq?rs=1&pid=ImgDetMain">
+<img align="right" alt="Coding" width="400" src="[https://th.bing.com/th/id/OIP.IxVkvCmQ68sA-FBVwf2_2gHaEq?rs=1&pid=ImgDetMain](https://th.bing.com/th/id/OIP.j2Th7Khi2V0TgeuMGQbyUwHaFj?rs=1&pid=ImgDetMain)">
 <br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parakkrama24" alt="parakkrama24" /></a> </p>
