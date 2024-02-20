@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parakkrama Dasanayaka</h1>
+
+![image](https://github.com/Parakkrama24/Parakkrama24/assets/110714055/ac43467f-14bc-4f49-b003-ad2d17ea9103)
+
 <h3 align="center">A Game developer and computer engineering undergraduate</h3>
 
 
