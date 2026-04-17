@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Parakkrama%20Dasanayaka&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Game%20Developer%20%7C%20CS%20Engineer%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Parakkrama%20Dasanayaka&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Game%20Developer%20%7C%20Computer%20Engineer%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Unity+%2F+C%23+Game+Developer+%F0%9F%8E%AE;Unreal+Engine+Explorer+%F0%9F%9A%80;Computer+Engineering+Undergrad+%F0%9F%8E%93;Keep+calm+and+keep+coding+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Unity+%2F+C%23+Game+Developer+%F0%9F%8E%AE;No+Coffee+No+Code+%F0%9F%9A%80;Computer+Engineering+Undergrad+%F0%9F%8E%93;Keep+calm+and+keep+coding+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
