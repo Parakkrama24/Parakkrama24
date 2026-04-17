@@ -84,10 +84,11 @@ const parakkrama = {
 
 ---
 
-## 🏆 GitHub Trophies
 
+
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parakkrama24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=parakkrama24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" alt="trophies"/>
 </div>
 
 ---
